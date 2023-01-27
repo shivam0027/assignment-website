@@ -1,0 +1,94 @@
+/* For Headers */
+body{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    
+}
+h1{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem;
+    font-weight: bold;
+    color: black;
+    display: inline-block;
+    padding: 4rem 0 0 4rem ;
+    text-align: center;
+   
+}
+h2{
+    ffont-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+    display: inline-block;
+    padding: 2rem 0 0 4rem ;
+    
+}
+/* For Para */
+.p-1{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: grey;
+    margin: 0 0 0 6rem;
+
+}
+.p-2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    
+    
+}
+/* For Images  */
+.img-1{
+    padding: 2rem 0 0 7rem;
+}
+.img-2
+{
+    float: left;
+    width: 30%;
+}
+/* Pages  */
+.page-1
+{
+  
+}
+.page-2{
+    margin-top: 1rem;
+    
+}
+.div-3{
+    text-align: center;
+}
+.col-lg-4{
+
+    padding: 2rem  8rem;
+    text-align: center;
+}
+.button-1{
+   padding: 0 0 0 4rem;
+}
+
+.div-button{
+    margin: 2rem 0 0 10rem;
+   
+}
+
+.skill-row{ 
+    margin: 100px auto 20px auto ;
+     width: 50%;
+     line-height: 2;
+     text-align: center;
+     
+ }
+ .contact-me{
+    padding: 0 4rem 0 0 ;
+
+ }
+ .bottom{
+   background-color: #66bfbf;
+ }
+ .icons:hover {
+    color:#ff4c68;
+    }
+
